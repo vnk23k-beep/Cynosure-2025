@@ -1,516 +1,670 @@
-{
-  "meta": {
-    "festival": "Cynosure 4.0",
-    "school": "St. Gregorios High School"
+[
+  {
+    "Event": "Literary Lockout",
+    "Teacher": [
+      "Mrs. Kamini Srivastava"
+    ],
+    "Duty Date": "27/09/2025",
+    "Duty Age": "9th to 12th",
+    "Date": "Saturday,",
+    "Participants": "Team of 3 participants",
+    "Time": "10:30 a.m. to 1:30 p.m.",
+    "Age Category": "9th to 12th",
+    "Duration": "3 hours",
+    "Event Category": ": Restricted",
+    "Venue": "Room no. 706",
+    "Dress Code": "Semi-Formals"
   },
-  "events": [
-    {
-      "event_name": "Literary Lockout",
-      "domain": "Literary",
-      "date": "2025-09-27",
-      "time": "10:30 A.M. – 1:30 P.M.",
-      "venue": "Room 706",
-      "age_category": "9th to 12th",
-      "teacher_in_charge": "Mrs. Kamini Srivastava",
-      "restricted": true,
-      "capacity_schools": 8,
-      "participants_per_school": "Team of 3 participants per school",
-      "brochure_extract": "Literary Escape Room\nRound 1: instructions and bonus clues. Round 2: initial clue + hints; 1.5 hours. Participants liable for damage to library property."
-    },
-    {
-      "event_name": "Vichaar Vaatika (Hindi Story-Writing)",
-      "domain": "Literary",
-      "date": "2025-09-26",
-      "time": "1:00 P.M. – 3:00 P.M.",
-      "venue": "Room 705",
-      "age_category": "6th-8th; 9th-12th",
-      "teacher_in_charge": "Mr. Gopi Semleti; Mrs. Vandana Singh",
-      "restricted": false,
-      "participants_per_school": "1 participant per school per category",
-      "brochure_extract": "Hindi Story Writing. Categories: I (6-8) 300-350 words; II (9-12) 350-400 words. Topic disclosed on day."
-    },
-    {
-      "event_name": "Cynoscope (News Reporting)",
-      "domain": "Literary",
-      "date": "Both",
-      "time": "9:30 A.M. – 5:00 P.M.",
-      "venue": "Room 505",
-      "age_category": "8th to 12th",
-      "teacher_in_charge": "Mrs. Ipshita Sarkar",
-      "restricted": false,
-      "participants_per_school": "Team of 3 (reporter, cameraman, editor)",
-      "brochure_extract": "Full day event across both days. Reporter/editor/cameraman roles. Editor must carry laptop and dongle."
-    },
-    {
-      "event_name": "Debattle Ground (Debate)",
-      "domain": "Literary",
-      "date": "2025-09-27",
-      "time": "10:00 A.M. – 4:30 P.M.",
-      "venue": "Room 603, 604",
-      "age_category": "6th-8th; 9th-12th",
-      "teacher_in_charge": "Mr. Aditya Nair",
-      "restricted": false,
-      "participants_per_school": "Team of 2 per category",
-      "brochure_extract": "Debate with 2 rounds; Round 1: topic on day, 1 hour prep, speech + 2-min rebuttal. No cross-questioning."
-    },
-    {
-      "event_name": "Book Brief (Book Pitching)",
-      "domain": "Literary",
-      "date": "2025-09-27",
-      "time": "12:00 NOON – 4:00 P.M.",
-      "venue": "Room 706",
-      "age_category": "8th to 12th",
-      "teacher_in_charge": "Mrs. Suchanda Palit",
-      "restricted": false,
-      "participants_per_school": "Team of 4",
-      "brochure_extract": "Participants given genre; choose a book; 2 hours prep; 5-min pitch + 3-min Q&A."
-    },
-    {
-      "event_name": "Tale Tycoon (Literary Monopoly)",
-      "domain": "Literary",
-      "date": "2025-09-26",
-      "time": "10:30 A.M. – 5:00 P.M.",
-      "venue": "Room 603, 604",
-      "age_category": "9th to 12th",
-      "teacher_in_charge": "Mrs. Kaysar Patel",
-      "restricted": false,
-      "participants_per_school": "Team of 2",
-      "brochure_extract": "Literary Monopoly with coupons, properties, rent; top team wins."
-    },
-    {
-      "event_name": "Twin Tales (Duo Story Writing)",
-      "domain": "Literary",
-      "date": "2025-09-26",
-      "time": "10:00 A.M. – 1:00 P.M.",
-      "venue": "Room 507, 508",
-      "age_category": "6th-8th;9th-10th;11th-12th",
-      "teacher_in_charge": "Runali D'Souza; Latha Divedi; Ruma Ghosh",
-      "restricted": false,
-      "participants_per_school": "Team of 2",
-      "brochure_extract": "Duo writing across rooms; 3 cycles of 20 minutes with exchanges. Word limits per category."
-    },
-    {
-      "event_name": "Wrap The Scrap (Dress Making)",
-      "domain": "Fine Arts",
-      "date": "2025-09-27",
-      "time": "11:00 A.M. – 4:00 P.M.",
-      "venue": "Basement 04",
-      "age_category": "9th to 12th",
-      "teacher_in_charge": "Mrs. Bhakti Panicker",
-      "restricted": true,
-      "capacity_schools": 15,
-      "participants_per_school": "Team of 4 (1 model + 3 artists)",
-      "brochure_extract": "Make outfit from scrap materials; 4 hours; model showcases work."
-    },
-    {
-      "event_name": "Wolf of Wall Art (Wall Painting)",
-      "domain": "Fine Arts",
-      "date": "2025-09-26",
-      "time": "10:00 A.M. – 5:00 P.M.",
-      "venue": "Room 504",
-      "age_category": "6th-8th;9th-12th",
-      "teacher_in_charge": "Mr. Sudhir Deherkar",
-      "restricted": false,
-      "participants_per_school": "Team of 3",
-      "brochure_extract": "Theme disclosed on day; half-imperial sheet; no spray paints; 4-hour duration."
-    },
-    {
-      "event_name": "Dress To Impress (Fashion Styling)",
-      "domain": "Fine Arts",
-      "date": "2025-09-26",
-      "time": "1:00 P.M. – 5:00 P.M.",
-      "venue": "Room 610",
-      "age_category": "9th to 12th",
-      "teacher_in_charge": "Mrs. Ashwini Athalye",
-      "restricted": false,
-      "participants_per_school": "Team of 4",
-      "brochure_extract": "Participants bring white jeans, t-shirt, shoes and bucket hat; theme on day; no spray paint/glitter."
-    },
-    {
-      "event_name": "Build A Room (Miniature Room Building)",
-      "domain": "Fine Arts",
-      "date": "2025-09-27",
-      "time": "10:00 A.M. – 2:00 P.M.",
-      "venue": "Room 503, 504",
-      "age_category": "9th to 12th",
-      "teacher_in_charge": "Mrs. Kirti Bhat",
-      "restricted": false,
-      "participants_per_school": "Team of 4",
-      "brochure_extract": "Make miniature room on 30x30 cm base; hot glue guns prohibited."
-    },
-    {
-      "event_name": "Comic Storyboarding",
-      "domain": "Fine Arts",
-      "date": "2025-09-26",
-      "time": "9:00 A.M. – 1:00 P.M.",
-      "venue": "Foyer 2",
-      "age_category": "6th-8th;9th-12th",
-      "teacher_in_charge": "Mr. Avinash Motghare",
-      "restricted": false,
-      "participants_per_school": "Team of 3",
-      "brochure_extract": "Create a 4-6 frame comic on the theme."
-    },
-    {
-      "event_name": "1,2,3 Cheese! (Photo Booth)",
-      "domain": "Fine Arts",
-      "date": "2025-09-26",
-      "time": "9:00 A.M. – 1:00 P.M.",
-      "venue": "Basement 06",
-      "age_category": "9th to 12th",
-      "teacher_in_charge": "Mrs. Rushali Patoley",
-      "restricted": false,
-      "participants_per_school": "Team of 4",
-      "brochure_extract": "Create a photo booth pop-up using sun board; materials provided/bring your own."
-    },
-    {
-      "event_name": "Rhythmic Art (Album Cover)",
-      "domain": "Fine Arts",
-      "date": "2025-09-27",
-      "time": "11:00 A.M. – 3:00 P.M.",
-      "venue": "Room 710",
-      "age_category": "8th to 12th",
-      "teacher_in_charge": "Mrs. Atita Tawade",
-      "restricted": false,
-      "participants_per_school": "Team of 2",
-      "brochure_extract": "Design album cover based on two of three songs played."
-    },
-    {
-      "event_name": "Ad-Aura",
-      "domain": "Commerce",
-      "date": "2025-09-26",
-      "time": "10:00 A.M. – 5:00 P.M.",
-      "venue": "Room 702,703",
-      "age_category": "6th-8th;9th-12th",
-      "teacher_in_charge": "Meghana Jaitpal; Kirti Arora",
-      "restricted": false,
-      "participants_per_school": "Team of 4",
-      "brochure_extract": "Submit pre-recorded ad (1:00–1:30). Round 2 details on day. Bring laptop and dongle."
-    },
-    {
-      "event_name": "Corporate Comeback",
-      "domain": "Commerce",
-      "date": "2025-09-27",
-      "time": "11:00 A.M. – 4:30 P.M.",
-      "venue": "Room 702,703",
-      "age_category": "9th to 12th",
-      "teacher_in_charge": "Mrs. Preetma Kichloo",
-      "restricted": false,
-      "participants_per_school": "Team of 3",
-      "brochure_extract": "Given a failing business case; rebrand and present with Q&A. 2 hours prep; 10 min presentation."
-    },
-    {
-      "event_name": "Founder's Forge",
-      "domain": "Commerce",
-      "date": "2025-09-27",
-      "time": "9:00 A.M. – 4:30 P.M.",
-      "venue": "Room 704,705",
-      "age_category": "6th-8th;9th-12th",
-      "teacher_in_charge": "Mrs. Shraddha Singh",
-      "restricted": false,
-      "participants_per_school": "Team of 3",
-      "brochure_extract": "Pitch product feasible for assigned country's market. 3 hours prep; 5-7 minute pitch."
-    },
-    {
-      "event_name": "Stock Surge",
-      "domain": "Commerce",
-      "date": "Both",
-      "time": "Day1 1:00 P.M.; Day2 10:00 A.M.",
-      "venue": "Room 605,606",
-      "age_category": "9th to 12th",
-      "teacher_in_charge": "Mrs. Preetma Kichloo",
-      "restricted": false,
-      "participants_per_school": "Team of 2",
-      "brochure_extract": "Round 1: stock quiz. Round 2: virtual stock simulation; bring laptops & dongles."
-    },
-    {
-      "event_name": "Fiscal Face-Off",
-      "domain": "Commerce",
-      "date": "2025-09-26",
-      "time": "10:00 A.M. – 2:00 P.M.",
-      "venue": "Room 511",
-      "age_category": "9th to 12th",
-      "teacher_in_charge": "Mr. Rajesh Rayate",
-      "restricted": false,
-      "participants_per_school": "Team of 3",
-      "brochure_extract": "Quick Reform: propose three targeted policies addressing the assigned crisis in 1 hour; 5 minutes presentation."
-    },
-    {
-      "event_name": "Duo Drop",
-      "domain": "Performing Arts",
-      "date": "2025-09-26",
-      "time": "12:00 NOON – 2:00 P.M.",
-      "venue": "Stage",
-      "age_category": "8th to 12th",
-      "teacher_in_charge": "Mr. Vipul; Mr. Amit",
-      "restricted": false,
-      "participants_per_school": "Team of 2",
-      "brochure_extract": "Rap & beatbox event; live original piece; 1:30 performance time; printed lyrics required."
-    },
-    {
-      "event_name": "Clash Of Chords",
-      "domain": "Performing Arts",
-      "date": "2025-09-26",
-      "time": "2:00 P.M. – 5:30 P.M.",
-      "venue": "Stage",
-      "age_category": "6th-8th;9th-12th",
-      "teacher_in_charge": "Mr. Vipul; Mr. Amit",
-      "restricted": true,
-      "capacity_schools": 10,
-      "participants_per_school": "Team of 4-7",
-      "brochure_extract": "Band event themed 'Through the Decades'; 5 min prep, 6 min perform; instruments & amp provisions."
-    },
-    {
-      "event_name": "Footloose",
-      "domain": "Performing Arts",
-      "date": "2025-09-27",
-      "time": "10:00 A.M. – 1:00 P.M.",
-      "venue": "Stage",
-      "age_category": "8th to 12th",
-      "teacher_in_charge": "Mr. Raj Chawda; Mrs. Hemangi Pandit",
-      "restricted": true,
-      "capacity_schools": 15,
-      "participants_per_school": "Team of 5-8",
-      "brochure_extract": "Dance event with 3 rounds including retro tribute; MP3 soundtrack on pen drive required."
-    },
-    {
-      "event_name": "Runway Reverie",
-      "domain": "Performing Arts",
-      "date": "2025-09-27",
-      "time": "1:00 P.M. – 3:00 P.M.",
-      "venue": "Stage",
-      "age_category": "8th to 12th",
-      "teacher_in_charge": "Mrs. Vidya Nair",
-      "restricted": true,
-      "capacity_schools": 15,
-      "participants_per_school": "Team of 6-8",
-      "brochure_extract": "Fashion show themed 'Elements in Elegance'. 5 minutes performance; attire and backdrop rules apply."
-    },
-    {
-      "event_name": "Voices Unmasked",
-      "domain": "Performing Arts",
-      "date": "2025-09-26",
-      "time": "2:00 P.M. – 5:00 P.M.",
-      "venue": "Foyer 2",
-      "age_category": "8th to 12th",
-      "teacher_in_charge": "Mrs. Priyanka Raut",
-      "restricted": false,
-      "participants_per_school": "Team of 6-8",
-      "brochure_extract": "Street play on environmental issues; prop use allowed; no microphones; live music only."
-    },
-    {
-      "event_name": "Flip The Script",
-      "domain": "Performing Arts",
-      "date": "2025-09-26",
-      "time": "10:00 A.M. – 1:00 P.M.",
-      "venue": "Room 710",
-      "age_category": "6th to 8th",
-      "teacher_in_charge": "Mrs. Manali Sagar; Mrs. Priyanka Singh",
-      "restricted": false,
-      "participants_per_school": "Team of 2",
-      "brochure_extract": "Monologue recreating iconic Bollywood scenes with a twist; 6 minutes performance."
-    },
-    {
-      "event_name": "Tales Through Taal",
-      "domain": "Performing Arts",
-      "date": "2025-09-26",
-      "time": "10:00 A.M. – 12:00 NOON",
-      "venue": "Stage",
-      "age_category": "6th to 8th",
-      "teacher_in_charge": "Mr. Baldev Rathod",
-      "restricted": true,
-      "capacity_schools": 15,
-      "participants_per_school": "Team of 5-8",
-      "brochure_extract": "Fusion dance integrating Indian & Western styles; 4 minutes performance."
-    },
-    {
-      "event_name": "Celebutante",
-      "domain": "Cynoshow",
-      "date": "2025-09-27",
-      "time": "10:00 A.M. – 4:30 P.M.",
-      "venue": "Room 506",
-      "age_category": "8th to 12th",
-      "teacher_in_charge": "Mrs. Vaishali Mali; Mrs. Nidhi Patil",
-      "restricted": false,
-      "participants_per_school": "Minimum 2 participants per school",
-      "brochure_extract": "Personality contest with questionnaire, talent interview, live talent round and Q&A."
-    },
-    {
-      "event_name": "The Final Verdict",
-      "domain": "Cynoshow",
-      "date": "2025-09-27",
-      "time": "10:00 A.M. – 4:30 P.M.",
-      "venue": "Room 507,508",
-      "age_category": "8th to 12th",
-      "teacher_in_charge": "Mrs. Ruchi Parmar",
-      "restricted": false,
-      "participants_per_school": "Team of 2",
-      "brochure_extract": "Case solving across 3 rounds including crime scene examination and final arguments."
-    },
-    {
-      "event_name": "Futpro",
-      "domain": "Cynoshow",
-      "date": "Both",
-      "time": "10:00 A.M.",
-      "venue": "Room 311",
-      "age_category": "8th to 12th",
-      "teacher_in_charge": "Mrs. Megha Gadge",
-      "restricted": true,
-      "capacity_schools": 16,
-      "participants_per_school": "Team of 2",
-      "brochure_extract": "FIFA FC25 PS5 tournament with match rounds, auctions then knockout stages."
-    },
-    {
-      "event_name": "Clip The Hype",
-      "domain": "Cynoshow",
-      "date": "Both",
-      "time": "10:00 A.M. – 4:00 P.M.",
-      "venue": "Room 605,606",
-      "age_category": "6th-12th (3 categories)",
-      "teacher_in_charge": "Amarpreet Kaur Mehta; Mrs. Kiran Bhatija; Mrs. Jyoti Shukla",
-      "restricted": false,
-      "participants_per_school": "Team of 5",
-      "brochure_extract": "Make a festival hype video (max 1:30). Carry laptop, dongle and labelled pendrive."
-    },
-    {
-      "event_name": "Mystery Morsels",
-      "domain": "Cynoshow",
-      "date": "2025-09-27",
-      "time": "10:00 A.M. – 2:00 P.M.",
-      "venue": "Room 511",
-      "age_category": "9th to 12th",
-      "teacher_in_charge": "Mrs. Pooja Raut",
-      "restricted": false,
-      "participants_per_school": "Team of 3",
-      "brochure_extract": "No fire, no electricity cooking challenge across 3 rounds: Monochrome Morsels, Blind Bites, Wheel of Destiny."
-    },
-    {
-      "event_name": "Brain Trail",
-      "domain": "Cynoshow",
-      "date": "2025-09-27",
-      "time": "10:00 A.M. – 2:00 P.M.",
-      "venue": "Room 610",
-      "age_category": "8th to 12th",
-      "teacher_in_charge": "Mrs. Prasanya C",
-      "restricted": true,
-      "capacity_schools": 12,
-      "participants_per_school": "Team of 5",
-      "brochure_extract": "Scavenger hunt with 5 rounds including photo challenge, jigsaw, mini missions, rapid grab and wits trail."
-    },
-    {
-      "event_name": "Bollywood Baazigar",
-      "domain": "Cynoshow",
-      "date": "2025-09-26",
-      "time": "2:00 P.M. – 5:00 P.M.",
-      "venue": "Room 511",
-      "age_category": "8th to 12th",
-      "teacher_in_charge": "Mrs. Rekha Mahadik",
-      "restricted": false,
-      "participants_per_school": "Team of 3",
-      "brochure_extract": "Bollywood quiz with visual/audio rounds; details on the day."
-    },
-    {
-      "event_name": "Kick Stop",
-      "domain": "Sports",
-      "date": "2025-09-26",
-      "time": "9:00 A.M. – 6:00 P.M.",
-      "venue": "Football Turf",
-      "age_category": "8th to 12th",
-      "teacher_in_charge": "Mr. Sarthak More",
-      "restricted": true,
-      "capacity_schools": 20,
-      "participants_per_school": "Team of 8 (5 on-field +3 subs)",
-      "brochure_extract": "Football matches; FIFA rules; one boys & one girls team per school."
-    },
-    {
-      "event_name": "Final Checkmate",
-      "domain": "Sports",
-      "date": "2025-09-26",
-      "time": "9:00 A.M. – 2:00 P.M.",
-      "venue": "Room 607,608",
-      "age_category": "8th to 12th",
-      "teacher_in_charge": "Mr. Siddharth Kirloskar",
-      "restricted": true,
-      "capacity_schools": 20,
-      "participants_per_school": "1 player per school",
-      "brochure_extract": "Chess tournament following FIDE rules; single participant per school."
-    },
-    {
-      "event_name": "Paddle Battle",
-      "domain": "Sports",
-      "date": "2025-09-26",
-      "time": "10:00 A.M. – 3:00 P.M.",
-      "venue": "Multipurpose Court",
-      "age_category": "8th to 12th",
-      "teacher_in_charge": "Mrs. Arya Gosawi",
-      "restricted": true,
-      "capacity_schools": 16,
-      "participants_per_school": "2 teams of 2 players per school (one boys team, one girls team)",
-      "brochure_extract": "Pickleball competition using IPF rules; gum sole shoes required."
-    },
-    {
-      "event_name": "Clutch City",
-      "domain": "Sports",
-      "date": "2025-09-27",
-      "time": "10:00 A.M. – 4:30 P.M.",
-      "venue": "Basketball Court",
-      "age_category": "8th to 12th",
-      "teacher_in_charge": "Mr. Ravi Shenoy",
-      "restricted": true,
-      "capacity_schools": 16,
-      "participants_per_school": "2 teams of 5 players per school (3 on-court +2 subs)",
-      "brochure_extract": "Basketball 3v3 half-court following FIBA 3v3 rules."
-    },
-    {
-      "event_name": "Hit Cricket",
-      "domain": "Sports",
-      "date": "2025-09-27",
-      "time": "10:00 A.M. – 5:00 P.M.",
-      "venue": "Football Turf",
-      "age_category": "6th to 10th",
-      "teacher_in_charge": "Mr. Yogesh Pachpande",
-      "restricted": true,
-      "capacity_schools": 20,
-      "participants_per_school": "Team of 6 players (1 girl mandatory)",
-      "brochure_extract": "Box cricket event; details & rules to be disclosed on the day."
-    },
-    {
-      "event_name": "Aim N Escape",
-      "domain": "Sports",
-      "date": "2025-09-27",
-      "time": "10:00 A.M. – 5:00 P.M.",
-      "venue": "Football Turf",
-      "age_category": "8th to 12th",
-      "teacher_in_charge": "Mr. Siddharth Kirloskar",
-      "restricted": true,
-      "capacity_schools": 16,
-      "participants_per_school": "Teams of 6 on-field + 2 substitutes",
-      "brochure_extract": "Dodgeball event; rules disclosed on the day."
-    },
-    {
-      "event_name": "Volley Vortex",
-      "domain": "Sports",
-      "date": "2025-09-27",
-      "time": "9:00 A.M. – 4:30 P.M.",
-      "venue": "Multipurpose Court",
-      "age_category": "8th to 12th",
-      "teacher_in_charge": "Mrs. Mamta Bhalerao",
-      "restricted": true,
-      "capacity_schools": 20,
-      "participants_per_school": "Team of 8 players per school",
-      "brochure_extract": "Volleyball event under FIVB rules; teams send girls & boys teams."
-    },
-    {
-      "event_name": "Top Spin Society",
-      "domain": "Sports",
-      "date": "2025-09-26",
-      "time": "1:00 P.M. – 6:00 P.M.",
-      "venue": "Basement 02",
-      "age_category": "6th to 10th",
-      "teacher_in_charge": "Mr. Yogesh Pachpande",
-      "restricted": true,
-      "capacity_schools": 20,
-      "participants_per_school": "Team of 2 (1 boy, 1 girl)",
-      "brochure_extract": "Table-tennis doubles; USATT rules apply."
-    }
-  ]
-}
+  {
+    "Event": "Vichar Vaatika",
+    "Teacher": [
+      "Mr. Gopi Semleti",
+      "Mrs. Vandana Singh"
+    ],
+    "Duty Date": "26/09/2025",
+    "Duty Age": "Team1:6th-8th; Team2:9th-12th",
+    "Date": NaN,
+    "Participants": NaN,
+    "Time": NaN,
+    "Age Category": NaN,
+    "Duration": NaN,
+    "Event Category": NaN,
+    "Venue": NaN,
+    "Dress Code": NaN
+  },
+  {
+    "Event": "Cynoscope",
+    "Teacher": [
+      "Mrs. Ipshita Sarkar"
+    ],
+    "Duty Date": "26/09/2025 & 27/09/2025",
+    "Duty Age": "8th to 12th",
+    "Date": "26  and 27  September,2025",
+    "Participants": "Team of 3 participants",
+    "Time": "9:30 a.m. to 5:00 p.m.",
+    "Age Category": "8th to 12th",
+    "Duration": "Full Day Event",
+    "Event Category": "Not Restricted",
+    "Venue": "Room no. 505",
+    "Dress Code": "Formals"
+  },
+  {
+    "Event": "Debattle Ground",
+    "Teacher": [
+      "Mr. Aditya Nair"
+    ],
+    "Duty Date": "27/09/2025",
+    "Duty Age": "Team1:6th-8th; Team2:9th-12th",
+    "Date": "Friday,",
+    "Participants": "Team of 2",
+    "Time": "10:30 a.m. to 5:00 p.m.",
+    "Age Category": "9th to 12th",
+    "Duration": ": Full Day Event",
+    "Event Category": "Not Restricted",
+    "Venue": "Room no. 603, 604",
+    "Dress Code": "Smart Casuals"
+  },
+  {
+    "Event": "Book Brief",
+    "Teacher": [
+      "Mrs. Suchanda Palit"
+    ],
+    "Duty Date": "27/09/2025",
+    "Duty Age": "8th to 12th",
+    "Date": "Saturday,",
+    "Participants": NaN,
+    "Time": "11:00 a.m. to 4:00 p.m.",
+    "Age Category": "9th to 12th",
+    "Duration": NaN,
+    "Event Category": "Restricted",
+    "Venue": "Basement 04",
+    "Dress Code": "Casuals (Black T-shirt"
+  },
+  {
+    "Event": "Tale Tycoon",
+    "Teacher": [
+      "Mrs. Kaysar Patel"
+    ],
+    "Duty Date": "26/09/2025",
+    "Duty Age": "9th to 12th",
+    "Date": "Friday,",
+    "Participants": "Team of 2",
+    "Time": "10:00 a.m. to 1:00 p.m.",
+    "Age Category": "I: 6th to 8th",
+    "Duration": ": 3 hours",
+    "Event Category": "Not Restricted",
+    "Venue": "Room no. 507, 508",
+    "Dress Code": "Smart Casuals"
+  },
+  {
+    "Event": "Twin Tales",
+    "Teacher": [
+      "Mrs. Runali D'Souza",
+      "Mrs. Latha Divedi",
+      "Mrs. Ruma Ghosh"
+    ],
+    "Duty Date": "26/09/2025",
+    "Duty Age": "Team1:6th-8th; Team2:9th-10th; Team3:11th-12th",
+    "Date": "Saturday,",
+    "Participants": "Team of 4",
+    "Time": "12:00 noon to 4:00 p.m.",
+    "Age Category": "8th to 12th",
+    "Duration": ": 4 hours",
+    "Event Category": "Not Restricted",
+    "Venue": "Room no. 706",
+    "Dress Code": "Formals"
+  },
+  {
+    "Event": "Wrap The Scrap",
+    "Teacher": [
+      "Mrs. Bhakti Panicker"
+    ],
+    "Duty Date": "27/09/2025",
+    "Duty Age": "9th to 12th",
+    "Date": "Saturday,",
+    "Participants": "Team of 3 participants",
+    "Time": "10:30 a.m. to 1:30 p.m.",
+    "Age Category": "9th to 12th",
+    "Duration": "3 hours",
+    "Event Category": ": Restricted",
+    "Venue": "Room no. 706",
+    "Dress Code": "Semi-Formals"
+  },
+  {
+    "Event": "Wolf of Wall Art",
+    "Teacher": [
+      "Mr. Sudhir Deherkar"
+    ],
+    "Duty Date": "26/09/2025",
+    "Duty Age": "Team1:6th-8th; Team2:9th-12th",
+    "Date": "Friday,",
+    "Participants": "Team of 4",
+    "Time": "1:00 p.m. to 5:00 p.m.",
+    "Age Category": "9th to 12th",
+    "Duration": "4 hours",
+    "Event Category": "Not Restricted",
+    "Venue": "Room no. 610",
+    "Dress Code": "Casuals"
+  },
+  {
+    "Event": "Dress To Impress",
+    "Teacher": [
+      "Mrs. Ashwini Athalye"
+    ],
+    "Duty Date": "26/09/2025",
+    "Duty Age": "9th to 12th",
+    "Date": "Saturday,",
+    "Participants": "Team of 4",
+    "Time": "10:00 a.m. to 2:00 p.m.",
+    "Age Category": "9th to 12th",
+    "Duration": "4 hours",
+    "Event Category": "Not Restricted",
+    "Venue": "Room no. 503, 504",
+    "Dress Code": "Casuals"
+  },
+  {
+    "Event": "Build A Room",
+    "Teacher": [
+      "Mrs. Kirti Bhat"
+    ],
+    "Duty Date": "27/09/2025",
+    "Duty Age": "9th to 12th",
+    "Date": "Friday,",
+    "Participants": "Team of 3 participants",
+    "Time": "9:00 a.m. to 1:00 p.m.",
+    "Age Category": "I. 6th  to 8th",
+    "Duration": "4 hours",
+    "Event Category": "Not Restricted",
+    "Venue": "Foyer 2",
+    "Dress Code": "Casuals"
+  },
+  {
+    "Event": "Comic Storyboarding",
+    "Teacher": [
+      "Mr. Avinash Motghare"
+    ],
+    "Duty Date": "26/09/2025",
+    "Duty Age": "Team1:6th-8th; Team2:9th-12th",
+    "Date": "Friday,",
+    "Participants": "Team of 4",
+    "Time": "9:00 a.m. to 1:00 p.m.",
+    "Age Category": "9th to 12th",
+    "Duration": "4 hours",
+    "Event Category": "Not Restricted",
+    "Venue": "Basement 06",
+    "Dress Code": "Casuals"
+  },
+  {
+    "Event": "1,2,3 Cheese!",
+    "Teacher": [
+      "Mrs. Rushali Patoley"
+    ],
+    "Duty Date": "26/09/2025",
+    "Duty Age": "9th to 12th",
+    "Date": "Saturday,",
+    "Participants": "Team of 2 participants",
+    "Time": "11:00 a.m. to 3:00 p.m.",
+    "Age Category": "8th to 12th",
+    "Duration": "4 hours",
+    "Event Category": "Not Restricted",
+    "Venue": "Room no. 710",
+    "Dress Code": "Casuals"
+  },
+  {
+    "Event": "Rhythmic Art",
+    "Teacher": [
+      "Mrs. Atita Tawade"
+    ],
+    "Duty Date": "27/09/2025",
+    "Duty Age": "8th to 12th",
+    "Date": "Friday,",
+    "Participants": "Team of 4",
+    "Time": "10:00 a.m. to 5:00 p.m.",
+    "Age Category": NaN,
+    "Duration": "Full Day Event",
+    "Event Category": "Not Restricted",
+    "Venue": "Room no. 702, 703",
+    "Dress Code": "Formals"
+  },
+  {
+    "Event": "Ad-Aura",
+    "Teacher": [
+      "Mrs. Meghana Jaitpal",
+      "Mrs. Kirti Arora"
+    ],
+    "Duty Date": "26/09/2025",
+    "Duty Age": "Team1:6th-8th; Team2:9th-12th",
+    "Date": "Saturday,",
+    "Participants": "Team of 3",
+    "Time": "11:00 a.m. to 4:30 p.m.",
+    "Age Category": NaN,
+    "Duration": NaN,
+    "Event Category": NaN,
+    "Venue": NaN,
+    "Dress Code": NaN
+  },
+  {
+    "Event": "Corporate Comeback",
+    "Teacher": [
+      "Mrs. Preetma Kichloo"
+    ],
+    "Duty Date": "27/09/2025",
+    "Duty Age": "9th to 12th",
+    "Date": "Saturday,",
+    "Participants": "Team of 3 participants",
+    "Time": "9:00 a.m. to 4:30 p.m.",
+    "Age Category": "I. 6th to 8th",
+    "Duration": "Full Day Event",
+    "Event Category": "Not Restricted",
+    "Venue": "Room no. 704, 705",
+    "Dress Code": "Formals"
+  },
+  {
+    "Event": "Founders Forge",
+    "Teacher": [
+      "Mrs. Shraddha Singh"
+    ],
+    "Duty Date": "27/09/2025",
+    "Duty Age": "Team1:6th-8th; Team2:9th-12th",
+    "Date": NaN,
+    "Participants": NaN,
+    "Time": NaN,
+    "Age Category": NaN,
+    "Duration": NaN,
+    "Event Category": NaN,
+    "Venue": NaN,
+    "Dress Code": NaN
+  },
+  {
+    "Event": "Stock Surge",
+    "Teacher": [
+      "Mrs. Preetma Kichloo"
+    ],
+    "Duty Date": "26/09/2025 & 27/09/2025",
+    "Duty Age": "9th to 12th",
+    "Date": "Friday,",
+    "Participants": "Team of 3",
+    "Time": "10:00 a.m. to 2:00 p.m.",
+    "Age Category": "9th to 12th",
+    "Duration": "4 hours",
+    "Event Category": "Not Restricted",
+    "Venue": "Room no. 511",
+    "Dress Code": "Formals"
+  },
+  {
+    "Event": "Fiscal Face-Off",
+    "Teacher": [
+      "Mr. Rajesh Rayate"
+    ],
+    "Duty Date": "26/09/2025",
+    "Duty Age": "9th to 12th",
+    "Date": "Friday,",
+    "Participants": "Team of 2",
+    "Time": "12:00 noon to 2:00 p.m.",
+    "Age Category": "8th to 12th",
+    "Duration": "2 hours",
+    "Event Category": "Not Restricted",
+    "Venue": "Stage",
+    "Dress Code": "Casuals"
+  },
+  {
+    "Event": "Duo Drop",
+    "Teacher": [
+      "Mr. Vipul",
+      "Mr. Amit"
+    ],
+    "Duty Date": "26/09/2025",
+    "Duty Age": "8th to 12th",
+    "Date": "Friday,",
+    "Participants": "Team of 4-7",
+    "Time": "2:00 p.m. to 5:30 p.m.",
+    "Age Category": "I. 6th to 8th",
+    "Duration": "3 hours 30 minutes",
+    "Event Category": "Restricted",
+    "Venue": "Stage",
+    "Dress Code": "Casuals"
+  },
+  {
+    "Event": "Clash Of Chords",
+    "Teacher": [
+      "Mr. Vipul",
+      "Mr. Amit"
+    ],
+    "Duty Date": "26/09/2025",
+    "Duty Age": "Team1:6th-8th; Team2:9th-12th",
+    "Date": "Saturday,",
+    "Participants": "Team of 3 participants",
+    "Time": "10:30 a.m. to 1:30 p.m.",
+    "Age Category": "9th to 12th",
+    "Duration": "3 hours",
+    "Event Category": ": Restricted",
+    "Venue": "Room no. 706",
+    "Dress Code": "Semi-Formals"
+  },
+  {
+    "Event": "Footloose",
+    "Teacher": [
+      "Mr. Raj Chawda",
+      "Mrs. Hemangi Pandit"
+    ],
+    "Duty Date": "27/09/2025",
+    "Duty Age": "8th to 12th",
+    "Date": "Saturday,",
+    "Participants": "Team of 3 participants",
+    "Time": "10:30 a.m. to 1:30 p.m.",
+    "Age Category": "9th to 12th",
+    "Duration": "3 hours",
+    "Event Category": ": Restricted",
+    "Venue": "Room no. 706",
+    "Dress Code": "Semi-Formals"
+  },
+  {
+    "Event": "Runway Reverie",
+    "Teacher": [
+      "Mrs. Vidya Nair"
+    ],
+    "Duty Date": "27/09/2025",
+    "Duty Age": "8th to 12th",
+    "Date": "Saturday,",
+    "Participants": "Team of 3 participants",
+    "Time": "10:30 a.m. to 1:30 p.m.",
+    "Age Category": "9th to 12th",
+    "Duration": "3 hours",
+    "Event Category": ": Restricted",
+    "Venue": "Room no. 706",
+    "Dress Code": "Semi-Formals"
+  },
+  {
+    "Event": "Voices Unmasked",
+    "Teacher": [
+      "Mrs. Priyanka Raut"
+    ],
+    "Duty Date": "26/09/2025",
+    "Duty Age": "8th to 12th",
+    "Date": "Friday,",
+    "Participants": "Team of 2",
+    "Time": "10:00 a.m. to 1:00 p.m.",
+    "Age Category": "6th to 8th",
+    "Duration": "3 hours",
+    "Event Category": "Not Restricted",
+    "Venue": "Room No. 710",
+    "Dress Code": "Costumes"
+  },
+  {
+    "Event": "Flip The Script",
+    "Teacher": [
+      "Mrs. Manali Sagar",
+      "Mrs. Priyanka Singh"
+    ],
+    "Duty Date": "26/09/2025",
+    "Duty Age": "6th to 8th",
+    "Date": "Friday,",
+    "Participants": "Team of 5-8",
+    "Time": "10:00 a.m. to 12:00 noon",
+    "Age Category": "6th to 8th",
+    "Duration": "2 hours",
+    "Event Category": "Restricted",
+    "Venue": "Stage",
+    "Dress Code": "Costume"
+  },
+  {
+    "Event": "Tales Through Taal",
+    "Teacher": [
+      "Mr. Baldev Rathod"
+    ],
+    "Duty Date": "26/09/2025",
+    "Duty Age": "6th to 8th",
+    "Date": "Saturday,",
+    "Participants": "Team of 3 participants",
+    "Time": "10:30 a.m. to 1:30 p.m.",
+    "Age Category": "9th to 12th",
+    "Duration": "3 hours",
+    "Event Category": ": Restricted",
+    "Venue": "Room no. 706",
+    "Dress Code": "Semi-Formals"
+  },
+  {
+    "Event": "Celebutante",
+    "Teacher": [
+      "Mrs. Vaishali Mali",
+      "Mrs. Nidhi Patil"
+    ],
+    "Duty Date": "27/09/2025",
+    "Duty Age": "8th to 12th",
+    "Date": "Saturday,",
+    "Participants": "Team of 2 participants",
+    "Time": "10:00 a.m. to 4:30 p.m.",
+    "Age Category": "8th to 12th",
+    "Duration": NaN,
+    "Event Category": "Not Restricted",
+    "Venue": "Room no. 507, 508",
+    "Dress Code": "Semi-formals"
+  },
+  {
+    "Event": "The Final Verdict",
+    "Teacher": [
+      "Mrs. Ruchi Parmar"
+    ],
+    "Duty Date": "27/09/2025",
+    "Duty Age": "8th to 12th",
+    "Date": "26  and 27  September,",
+    "Participants": "Team of 2",
+    "Time": "10:00 a.m. to 5:00 p.m.",
+    "Age Category": "8th to 12th",
+    "Duration": "Full Day Event",
+    "Event Category": "Restricted",
+    "Venue": "Room no. 311",
+    "Dress Code": "Casuals"
+  },
+  {
+    "Event": "Futpro",
+    "Teacher": [
+      "Mrs. Megha Gadge"
+    ],
+    "Duty Date": "26/09/2025 & 27/09/2025",
+    "Duty Age": "8th to 12th",
+    "Date": "Saturday,",
+    "Participants": "Team of 3 participants",
+    "Time": "10:30 a.m. to 1:30 p.m.",
+    "Age Category": "9th to 12th",
+    "Duration": "3 hours",
+    "Event Category": ": Restricted",
+    "Venue": "Room no. 706",
+    "Dress Code": "Semi-Formals"
+  },
+  {
+    "Event": "Clip The Hype!",
+    "Teacher": [
+      "Amarpreet Kaur Mehta",
+      "Mrs. Kiran Bhatija",
+      "Mrs. Jyoti Shukla"
+    ],
+    "Duty Date": "26/09/2025 & 27/09/2025",
+    "Duty Age": "Team1:6th-8th; Team2:9th-10th; Team3:11th-12th",
+    "Date": "Saturday,",
+    "Participants": "Team of 3",
+    "Time": "10:00 a.m. to 2:00 p.m.",
+    "Age Category": "9th to 12th",
+    "Duration": NaN,
+    "Event Category": "Not Restricted",
+    "Venue": "Room no. 511",
+    "Dress Code": "Casuals"
+  },
+  {
+    "Event": "Mystery Morsels",
+    "Teacher": [
+      "Mrs. Pooja Raut"
+    ],
+    "Duty Date": "27/09/2025",
+    "Duty Age": "9th to 12th",
+    "Date": "Saturday,",
+    "Participants": "Team of 5",
+    "Time": "10:00 a.m. to 2:00 p.m.",
+    "Age Category": "8th to 12th",
+    "Duration": NaN,
+    "Event Category": "Restricted",
+    "Venue": "Room no. 610",
+    "Dress Code": "Casuals"
+  },
+  {
+    "Event": "Brain Trail",
+    "Teacher": [
+      "Mrs. Prasanya C"
+    ],
+    "Duty Date": "27/09/2025",
+    "Duty Age": "8th to 12th",
+    "Date": "Saturday,",
+    "Participants": "Team of 3 participants",
+    "Time": "10:30 a.m. to 1:30 p.m.",
+    "Age Category": "9th to 12th",
+    "Duration": "3 hours",
+    "Event Category": ": Restricted",
+    "Venue": "Room no. 706",
+    "Dress Code": "Semi-Formals"
+  },
+  {
+    "Event": "Bollywood Baazigar",
+    "Teacher": [
+      "Mrs. Rekha Mahadik"
+    ],
+    "Duty Date": "26/09/2025",
+    "Duty Age": "8th to 12th",
+    "Date": "Friday,",
+    "Participants": "Team of 8 players per",
+    "Time": "9:00 a.m. to 6:00 p.m.",
+    "Age Category": "8th to 12th",
+    "Duration": "Full Day Event",
+    "Event Category": "Restricted",
+    "Venue": "Football Turf",
+    "Dress Code": "Football Jersey"
+  },
+  {
+    "Event": "Kick Stop",
+    "Teacher": [
+      "Mr. Sarthak More"
+    ],
+    "Duty Date": "26/09/2025",
+    "Duty Age": "8th to 12th",
+    "Date": "Saturday,",
+    "Participants": "Team of 3 participants",
+    "Time": "10:30 a.m. to 1:30 p.m.",
+    "Age Category": "9th to 12th",
+    "Duration": "3 hours",
+    "Event Category": ": Restricted",
+    "Venue": "Room no. 706",
+    "Dress Code": "Semi-Formals"
+  },
+  {
+    "Event": "Final Checkmate",
+    "Teacher": [
+      "Mr. Siddharth Kirloskar"
+    ],
+    "Duty Date": "26/09/2025",
+    "Duty Age": "8th to 12th",
+    "Date": "Saturday,",
+    "Participants": "Team of 3 participants",
+    "Time": "10:30 a.m. to 1:30 p.m.",
+    "Age Category": "9th to 12th",
+    "Duration": "3 hours",
+    "Event Category": ": Restricted",
+    "Venue": "Room no. 706",
+    "Dress Code": "Semi-Formals"
+  },
+  {
+    "Event": "Paddle Battle",
+    "Teacher": [
+      "Mrs. Arya Gosawi"
+    ],
+    "Duty Date": "26/09/2025",
+    "Duty Age": "8th to 12th",
+    "Date": "Saturday,",
+    "Participants": "Team of 3 participants",
+    "Time": "10:30 a.m. to 1:30 p.m.",
+    "Age Category": "9th to 12th",
+    "Duration": "3 hours",
+    "Event Category": ": Restricted",
+    "Venue": "Room no. 706",
+    "Dress Code": "Semi-Formals"
+  },
+  {
+    "Event": "Clutch City",
+    "Teacher": [
+      "Mr. Ravi Shenoy"
+    ],
+    "Duty Date": "27/09/2025",
+    "Duty Age": "8th to 12th",
+    "Date": NaN,
+    "Participants": NaN,
+    "Time": NaN,
+    "Age Category": NaN,
+    "Duration": NaN,
+    "Event Category": NaN,
+    "Venue": NaN,
+    "Dress Code": NaN
+  },
+  {
+    "Event": "Hit Cricket",
+    "Teacher": [
+      "Mr. Yogesh Pachpande"
+    ],
+    "Duty Date": "27/09/2025",
+    "Duty Age": "6th to 10th",
+    "Date": "Saturday,",
+    "Participants": "Team of 3 participants",
+    "Time": "10:30 a.m. to 1:30 p.m.",
+    "Age Category": "9th to 12th",
+    "Duration": "3 hours",
+    "Event Category": ": Restricted",
+    "Venue": "Room no. 706",
+    "Dress Code": "Semi-Formals"
+  },
+  {
+    "Event": "Aim N Escape",
+    "Teacher": [
+      "Mr. Siddharth Kirloskar"
+    ],
+    "Duty Date": "27/09/2025",
+    "Duty Age": "8th to 12th",
+    "Date": "Saturday,",
+    "Participants": "Team of 3 participants",
+    "Time": "10:30 a.m. to 1:30 p.m.",
+    "Age Category": "9th to 12th",
+    "Duration": "3 hours",
+    "Event Category": ": Restricted",
+    "Venue": "Room no. 706",
+    "Dress Code": "Semi-Formals"
+  },
+  {
+    "Event": "Volley Vortex",
+    "Teacher": [
+      "Mrs. Mamta Bhalerao"
+    ],
+    "Duty Date": "27/09/2025",
+    "Duty Age": "8th to 12th",
+    "Date": "Saturday,",
+    "Participants": "Team of 3 participants",
+    "Time": "10:30 a.m. to 1:30 p.m.",
+    "Age Category": "9th to 12th",
+    "Duration": "3 hours",
+    "Event Category": ": Restricted",
+    "Venue": "Room no. 706",
+    "Dress Code": "Semi-Formals"
+  },
+  {
+    "Event": "Top Spin Society",
+    "Teacher": [
+      "Mr. Yogesh Pachpande"
+    ],
+    "Duty Date": "26/09/2025",
+    "Duty Age": "6th to 10th",
+    "Date": "Saturday,",
+    "Participants": "Team of 3 participants",
+    "Time": "10:30 a.m. to 1:30 p.m.",
+    "Age Category": "9th to 12th",
+    "Duration": "3 hours",
+    "Event Category": ": Restricted",
+    "Venue": "Room no. 706",
+    "Dress Code": "Semi-Formals"
+  }
+
+    ]
